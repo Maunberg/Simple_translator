@@ -1,0 +1,6 @@
+torch>=1.9.0
+gradio>=4.0.0
+numpy
+tqdm
+matplotlib
+seaborn
